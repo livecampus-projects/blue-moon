@@ -38,9 +38,8 @@ Travail réalisé par : **Hicham – Tristan – Antoine**
 ## 5. Design Patterns
 
 - **MVC** (séparation interface/logiciel/données)
-- **DAO** (accès aux données)
-- **Observer** (notifications aux clients, alertes stock)
 - **Singleton** (accès unique aux ressources partagées, ex. configuration)
+- **Observer** (notifications aux clients, alertes stock)
 - Diagrammes UML correspondants dans le `pdf`.
 
 ## 6. Organisation du projet
