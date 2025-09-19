@@ -39,7 +39,7 @@ Travail réalisé par : **Hicham – Tristan – Antoine**
 
 - **MVC** (séparation interface/logiciel/données)
 - **Singleton** (accès unique aux ressources partagées, ex. configuration)
-- **Observer** (notifications aux clients, alertes stock)
+- **Observer** (système de notifications)
 - Diagrammes UML correspondants dans le `pdf`.
 
 ## 6. Organisation du projet
